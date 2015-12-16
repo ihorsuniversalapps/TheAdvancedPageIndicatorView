@@ -10,8 +10,8 @@ ext {
 
     libraryDescription = 'The advanced page indicator (for ViewPage e.g.)'
 
-    siteUrl = 'https://github.com/ihorsuniversalapps/TheSimplestPageIndicatorView'
-    gitUrl = 'https://github.com/ihorsuniversalapps/TheSimplestPageIndicatorView.git'
+    siteUrl = 'https://github.com/ihorsuniversalapps/TheAdvancedPageIndicatorView'
+    gitUrl = 'https://github.com/ihorsuniversalapps/TheAdvancedPageIndicatorView.git'
 
     libraryVersion = '1.0.0'
 
