@@ -78,7 +78,7 @@ Define next attributes in your xml tag:
 * `indicatorInactiveDrawable` xml - attr defines the drawable of inactive indicator.
 * `indicatorSelectedDrawable` xml - attr defines the drawable of active(selected) indicator.
 
-# Licence
+# License
 
 The MIT License (MIT)
 
